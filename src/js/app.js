@@ -1,11 +1,11 @@
 // Get the modal
 const modal = document.getElementById('myModal');
-const root = document.getElementById('root');
+//const root = document.getElementById('root');
 
-const renderComponent = () => {
-    root.innerHTML = markup();
-
-};
+//const renderComponent = () => {
+//    root.innerHTML = markup();
+//
+//};
 
 // Get the button that opens the modal
 const btn = document.getElementById("orderBtn");
@@ -34,22 +34,22 @@ window.onclick = function(event) {
     }
 }
 
-function firstFunction() {
-    let element = document.getElementById("myDIV1");
-    element.classList.toggle("mystyle");
-}
-function secndFunction() {
-    let element = document.getElementById("myDIV2");
-    element.classList.toggle("mystyle");
-}
-function threedFunction() {
-    let element = document.getElementById("myDIV3");
-    element.classList.toggle("mystyle");
-}
-function fourthFunction() {
-    let element = document.getElementById("myDIV4");
-    element.classList.toggle("mystyle");
-}
+//function firstFunction() {
+//    let element = document.getElementById("myDIV1");
+//    element.classList.toggle("mystyle");
+//}
+//function secndFunction() {
+//    let element = document.getElementById("myDIV2");
+//    element.classList.toggle("mystyle");
+//}
+//function threedFunction() {
+//    let element = document.getElementById("myDIV3");
+//    element.classList.toggle("mystyle");
+//}
+//function fourthFunction() {
+//    let element = document.getElementById("myDIV4");
+//    element.classList.toggle("mystyle");
+//}
 
 document.forms.myForm.onchange = function(e) {
     var target = e.target;    
