@@ -1,0 +1,33 @@
+<svg width="165" height="165" viewBox="0 0 165 165" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_f_75_6943)">
+<rect x="149.178" y="45.5664" width="20" height="20" transform="rotate(106.389 149.178 45.5664)" fill="#FEF401"/>
+<rect x="128.072" y="39.3589" width="20" height="20" transform="rotate(106.389 128.072 39.3589)" fill="#FEF401"/>
+<rect x="106.966" y="33.1514" width="20" height="20" transform="rotate(106.389 106.966 33.1514)" fill="#FEF401"/>
+<rect x="124.348" y="129.991" width="20" height="20" transform="rotate(106.389 124.348 129.991)" fill="#FEF401"/>
+<rect x="103.242" y="123.783" width="20" height="20" transform="rotate(106.389 103.242 123.783)" fill="#FEF401"/>
+<rect x="109.45" y="102.677" width="20" height="20" transform="rotate(106.389 109.45 102.677)" fill="#FEF401"/>
+<rect x="130.556" y="108.885" width="20" height="20" transform="rotate(106.389 130.556 108.885)" fill="#FEF401"/>
+<rect x="88.3436" y="96.4697" width="20" height="20" transform="rotate(106.389 88.3436 96.4697)" fill="#FEF401"/>
+<rect x="82.1361" y="117.576" width="20" height="20" transform="rotate(106.389 82.1361 117.576)" fill="#FEF401"/>
+<rect x="100.759" y="54.2576" width="20" height="20" transform="rotate(106.389 100.759 54.2576)" fill="#FEF401"/>
+<rect x="94.5511" y="75.3636" width="20" height="20" transform="rotate(106.389 94.5511 75.3636)" fill="#FEF401"/>
+<rect x="73.445" y="69.1562" width="20" height="20" transform="rotate(106.389 73.445 69.1562)" fill="#FEF401"/>
+<rect x="67.2375" y="90.2622" width="20" height="20" transform="rotate(106.389 67.2375 90.2622)" fill="#FEF401"/>
+<rect x="46.1314" y="84.0547" width="20" height="20" transform="rotate(106.389 46.1314 84.0547)" fill="#FEF401"/>
+<rect x="52.3389" y="62.9486" width="20" height="20" transform="rotate(106.389 52.3389 62.9486)" fill="#FEF401"/>
+<rect x="58.5464" y="41.8426" width="20" height="20" transform="rotate(106.389 58.5464 41.8426)" fill="#FEF401"/>
+<rect x="64.7539" y="20.7365" width="20" height="20" transform="rotate(106.389 64.7539 20.7365)" fill="#FEF401"/>
+<rect x="79.6525" y="48.05" width="20" height="20" transform="rotate(106.389 79.6525 48.05)" fill="#FEF401"/>
+<rect x="85.86" y="26.944" width="20" height="20" transform="rotate(106.389 85.86 26.944)" fill="#FEF401"/>
+<rect x="39.9239" y="105.161" width="20" height="20" transform="rotate(106.389 39.9239 105.161)" fill="#FEF401"/>
+<rect x="61.03" y="111.368" width="20" height="20" transform="rotate(106.389 61.03 111.368)" fill="#FEF401"/>
+<rect x="142.971" y="66.6725" width="42" height="42" transform="rotate(106.389 142.971 66.6725)" fill="#FEF401"/>
+</g>
+<defs>
+<filter id="filter0_f_75_6943" x="0.0933838" y="0.0932922" width="164.085" height="164.085" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="7.5" result="effect1_foregroundBlur_75_6943"/>
+</filter>
+</defs>
+</svg>
